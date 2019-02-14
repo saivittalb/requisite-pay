@@ -7,11 +7,12 @@ A tool built for making your client pay you by adding opacity to the body tag an
 - Just load the req-pay.js file in the <head> tag.
 - Set a Due & a Deadline period.
 
-Wordpress Version plugin availble [here](https://github.com/saivittalb/requisite-pay-wp).
+Wordpress Version plugin available [here](https://github.com/saivittalb/requisite-pay-wp).
 
 ### Note:
 
 - The plugin will only work if the due date and deadline are provided :) 
+
 
 <p align="center"> Copyright (c) 2018 Sai Vittal B. All rights reserved.</p>
 <p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
