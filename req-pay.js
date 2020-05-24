@@ -1,6 +1,6 @@
 /*
-Plugin Name: Requisite Pay WP
-Plugin URL: https://github.com/saivittalb/requisite-pay-wp
+Plugin Name: Requisite Pay
+Plugin URL: https://github.com/saivittalb/requisite-pay
 Description: A tool built for making your client pay you by adding opacity to the body tag and decrease it every day until their site completely fades away.
 Version: 1.0
 Author: Sai Vittal B
